@@ -9,7 +9,7 @@ cin>> a>>b;
 c=a;
 a=b;
 b=c;
-cout<<"Result:"<<a<<b;
+cout<<"Result:"<<a<<" "<<b;
 
 
 }
