@@ -5,7 +5,7 @@ int main()
     int a;
     cout<<"Enter the value:";
     cin>>a;
-    if(a%2==0)
+    if((a/2)*2==a)
     {
         cout<<"The given value is even:";
 
