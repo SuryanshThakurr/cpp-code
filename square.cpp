@@ -3,8 +3,8 @@ using namespace std;
 main()
 {
  int l,b,c;
- cout<<"enter the value:";
+ cout<<"Enter the value:";
  cin>> l>>b;
  c=l*b;
- cout<<"area of rectangle is:"<<c;
+ cout<<"Area of rectangle is:"<<c;
 }
