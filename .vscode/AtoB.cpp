@@ -6,7 +6,7 @@ int main()
 char a;
 a='A';
 a++;
-cout<< "Result:"<<a;
+cout<< "result:"<<a;
 
 
 }
