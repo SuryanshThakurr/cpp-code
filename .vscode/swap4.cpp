@@ -9,7 +9,7 @@ cin>> a>>b;
 a=a^b;
 b=a^b;
 a=a^b;
-cout<<"Result:"<<a<<" "<<b;
+cout<<"result:"<<a<<" "<<b;
 
 
 }
