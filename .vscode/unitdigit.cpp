@@ -7,7 +7,7 @@ int a,b;
 cout<< "Enter the no.:";
 cin>> a;
 b=a%10;
-cout<<"Result:"<<b;
+cout<<"result:"<<b;
 
 
 }
